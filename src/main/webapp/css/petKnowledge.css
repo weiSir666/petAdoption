@@ -1,0 +1,202 @@
+.petKnowledge01 {
+    /* 页面最上部褐色矩形框 */
+    position: absolute;
+    width: 1920px;
+    height: 120px;
+    left: 0;
+    top: 0;
+    box-sizing: border-box;
+
+    background: rgb(123, 90, 90);
+    border: 1px solid rgb(90, 76, 76);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.petKnowledge02 {
+    /* 主页 */
+    position: absolute;
+    width: 155px;
+    height: 64px;
+    left: 41px;
+    top: 41px;
+
+
+    color: rgb(32, 24, 24);
+    font-family: Source Han Serif CN;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 42px;
+    text-align: center;
+    text-decoration: none;
+}
+.petKnowledge03 {
+    /* 宠物知识头部标题 */
+    position: absolute;
+    width: 498px;
+    height: 152px;
+    left: 661px;
+    right: 761px;
+    top: 29px;
+    bottom: 899px;
+
+    color: rgb(32, 24, 24);
+    font-family: Muyao-Softbrush;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 52px;
+    letter-spacing: 58px;
+    text-align: center;
+}
+.petKnowledge04 {
+    /* 欢迎 */
+    position: absolute;
+    width: 422px;
+    height: 123px;
+    left: 699.24px;
+    right: 798.76px;
+    top: 119.76px;
+    bottom: 837.24px;
+
+    color: rgb(32, 24, 24);
+    font-family: Source Han Serif CN;
+    font-size: 96px;
+    font-weight: 400;
+    line-height: 138px;
+    letter-spacing: 42px;
+    text-align: center;
+}
+.petKnowledge05 {
+    /* 图片 */
+    position: absolute;
+    width: 878px;
+    height: 537px;
+    left: 74px;
+    right: 968px;
+    top: 346px;
+    bottom: 197px;
+}
+.petKnowledge06 {
+    /* 这样的动物谁不爱呢？ */
+    position: absolute;
+    width: 908px;
+    height: 88px;
+    left: 994.24px;
+    right: 17.76px;
+    top: 352.76px;
+    bottom: 639.24px;
+
+    color: rgb(32, 24, 24);
+    font-family: Source Han Serif CN;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 69px;
+    letter-spacing: 42px;
+    text-align: center;
+}
+.petKnowledge07 {
+    /* 猫和狗的健康和关怀 */
+    position: absolute;
+    width: 281px;
+    height: 39px;
+    left: 1135px;
+    right: 504px;
+    top: 520px;
+    bottom: 521px;
+
+
+    color: rgb(73, 106, 242);
+    font-family: Noto Sans SC;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    /* text-align: center; */
+}
+.petKnowledge08 {
+    /* 养猫注意事项(外层) */
+    position: absolute;
+    width: 190px;
+    height: 76px;
+    left: 53.07%;
+    right: 37.03%;
+    top: 76.85%;
+    bottom: 16.11%;
+}
+.petKnowledge09 {
+    /* 养猫注意事项按钮（里层） */
+    position: absolute;
+    width: 168px;
+    height: 28px;
+    left: 5.79%;
+    right: 5.79%;
+    top: 150px;
+    bottom: 31.58%;
+
+    color: rgb(73, 106, 242);
+    font-family: Noto Sans SC;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: center;
+    text-decoration: none;
+}
+.petKnowledge10 {
+    /* 按钮外圈蓝色圆圈部分 */
+    position: absolute;
+    width: 190px;
+    height: 76px;
+    left: 0;
+    top: 128px;
+
+    background: rgb(255, 255, 255);
+    border: 1px solid rgb(73, 106, 242);
+
+    border-radius:
+    48px;
+
+}
+.petKnowledge11 {
+    /* 养狗注意事项 */
+    position: absolute;
+    width: 190px;
+    height: 76px;
+    left: 70.47%;
+    right: 19.64%;
+    top: 76.85%;
+    bottom: 16.11%;
+}
+.petKnowledge12 {
+    /* 养狗注意事项最外层蓝色圆圈部分 */
+    position: absolute;
+    width: 190px;
+    height: 76px;
+    left: 0;
+    top: 128px;
+
+    background: rgb(255, 255, 255);
+    border: 1px solid rgb(73, 106, 242);
+
+    border-radius:48px;
+
+}
+.petKnowledge13 {
+    /* 养狗注意事项字体部分 */
+    position: absolute;
+    width: 168px;
+    height: 28px;
+    left: 5.79%;
+    right: 5.79%;
+    top: 150px;
+    bottom: 31.58%;
+
+
+    color: rgb(73, 106, 242);
+    font-family: Noto Sans SC;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: center;
+    text-decoration: none;
+}

@@ -1,0 +1,334 @@
+.userManagement00 {
+    /* 左侧定位框 */
+    position: absolute;
+    width: 240px;
+    height: 610px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    /* background-color: aqua; */
+}
+
+.userManagement01 {
+    /* 宠物领养系统头部蓝色矩形框 */
+    position: absolute;
+    width: 200px;
+    height: 36px;
+    left: 20px;
+    top: 22px;
+    background: rgb(91, 142, 217);
+    border-radius:
+            4px;
+}
+
+.userManagement02 {
+    /* 宠物管理系统字体 */
+    position: absolute;
+    width: 164px;
+    height: 34px;
+    left: 39px;
+    right: 37px;
+    top: 18px;
+    bottom: 1525.77px;
+
+    color: rgb(32, 24, 24);
+    font-family: Source Han Serif CN;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 0px;
+    letter-spacing: 4px;
+    text-align: left;
+    text-decoration: none;
+}
+
+.userManagement03 {
+    /* Rectangle */
+    position: absolute;
+    width: 200px;
+    height: 36px;
+    left: 20px;
+    top: 100px;
+
+
+    background: rgb(233, 242, 255);
+
+    border-radius:
+            8px;
+}
+
+.userManagement04 {
+    /* 后台管理 */
+    position: absolute;
+    width: 121px;
+    height: 30px;
+    left: 60px;
+    right: 59px;
+    top: 5px;
+    bottom: 1392px;
+
+    color: rgb(0, 0, 0);
+    font-family: TsangerShuYuanT;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.userManagement05 {
+    /* 用户信息边框 */
+    position: absolute;
+    width: 200px;
+    height: 32px;
+    left: 18.5px;
+    top: 135px;
+
+
+    background: rgb(203, 203, 203);
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.userManagement06 {
+    /* 用户信息 */
+    position: absolute;
+    width: 179px;
+    height: 25px;
+    left: 61px;
+    right: 0px;
+    top: 10px;
+    bottom: 1360.11px;
+
+
+    color: rgb(0, 0, 0);
+    font-family: TsangerShuYuanT;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0px;
+    text-align: left;
+    text-decoration: none;
+}
+
+.userManagement07 {
+    /* 宠物管理边框 */
+    position: absolute;
+    width: 200px;
+    height: 32px;
+    left: 18.5px;
+    top: 170px;
+
+
+    background: rgb(203, 203, 203);
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.userManagement08 {
+    /* 宠物管理 */
+    position: absolute;
+    width: 179px;
+    height: 25px;
+    left: 61px;
+    right: 0px;
+    top: 10px;
+    bottom: 1360.11px;
+
+
+    color: rgb(0, 0, 0);
+    font-family: TsangerShuYuanT;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0px;
+    text-align: left;
+    text-decoration: none;
+}
+
+.userManagement09 {
+    /* 评论管理边框 */
+    position: absolute;
+    width: 200px;
+    height: 32px;
+    left: 18.5px;
+    top: 205px;
+
+
+    background: rgb(203, 203, 203);
+    border: 1px solid rgb(255, 255, 255);
+}
+.userManagement10 {
+    /* 评论管理 */
+    position: absolute;
+    width: 179px;
+    height: 25px;
+    left: 61px;
+    right: 0px;
+    top: 10px;
+    bottom: 1360.11px;
+
+
+    color: rgb(0, 0, 0);
+    font-family: TsangerShuYuanT;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0px;
+    text-align: left;
+    text-decoration: none;
+}
+
+.userManagement11 {
+    /* 领养审核管理边框 */
+    position: absolute;
+    width: 200px;
+    height: 32px;
+    left: 18.5px;
+    top: 240px;
+
+
+    background: rgb(203, 203, 203);
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.userManagement12 {
+    /* 领养审核管理 */
+    position: absolute;
+    width: 179px;
+    height: 25px;
+    left: 61px;
+    right: 0px;
+    top: 10px;
+    bottom: 1360.11px;
+
+
+    color: rgb(0, 0, 0);
+    font-family: TsangerShuYuanT;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0px;
+    text-align: left;
+    text-decoration: none;
+}
+
+.userManagement13 {
+    /* 右上部分顶部矩形框 */
+    position: absolute;
+    width: 1600px;
+    height: 150px;
+    left: 240px;
+    top: 0px;
+    /*background-color: pink;*/
+
+    /* background: rgb(255, 255, 255); */
+    /* background-color: aquamarine; */
+    box-shadow: 0px 1px 1px rgba(0, 21, 41, 0.12);
+}
+.userManagement14 {
+    /* 用户管理标题矩形框*/
+    position: absolute;
+    width: 1000px;
+    height: 80px;
+    left: 286px;
+    top: 25px;
+
+    /* background: rgb(237, 223, 223); */
+}
+.userManagement15 {
+    /* 用户管理大标题 */
+    position: absolute;
+    width: 1000px;
+    height: 100px;
+    left: 35px;
+    right: 11px;
+    top: 0px;
+
+    color: rgb(0, 0, 0);
+    font-family: TsangerShuYuanT;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 100px;
+    letter-spacing: 0px;
+    text-align: center;
+    font-style: italic;
+}
+.userManagement16 {
+    /* 用户查询矩形框 */
+    position: absolute;
+    width: 1600px;
+    height: 50px;
+    left: 0px;
+    top: 180px;
+
+
+    background: rgb(196, 196, 196);
+}
+.userManagement17 {
+    /* 用户名称查询按钮： */
+    position: absolute;
+    width: 1600px;
+    height: 33px;
+    left: 5px;
+    top: 15px;
+    bottom: 806px;
+
+
+    color: rgb(0, 0, 0);
+    font-family: TsangerShuYuanT;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 7px;
+    text-align: left;
+}
+.userManagement18 {
+    /* Input输入/5.Input输入框/2.文本域输入框/默认态 */
+    position: absolute;
+    width: 250px;
+    height: 30px;
+    left: 158px;
+    top: -5px;
+}
+.userManagement19 {
+    /* 查询按钮 */
+    position: absolute;
+    width: 70px;
+    height: 35px;
+    left: 420px;
+    top: -5px;
+    background: linear-gradient(-45.00deg, rgba(132.38,175.36,236.79,1.00),rgba(73,101,242,1.00) 100%);
+    border-radius: 50px;
+}
+.userManagement20 {
+    /* 视频管理边框 */
+    position: absolute;
+    width: 200px;
+    height: 32px;
+    left: 18.5px;
+    top: 275px;
+
+
+    background: rgb(203, 203, 203);
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.userManagement21 {
+    /* 视频管理 */
+    position: absolute;
+    width: 179px;
+    height: 25px;
+    left: 61px;
+    right: 0px;
+    top: 10px;
+    bottom: 1360.11px;
+
+
+    color: rgb(0, 0, 0);
+    font-family: TsangerShuYuanT;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0px;
+    text-align: left;
+    text-decoration: none;
+}

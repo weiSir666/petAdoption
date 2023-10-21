@@ -1,0 +1,94 @@
+.background {
+
+    background-image: url("../images/3.webp");
+    background-repeat: no-repeat; /* 可选 */
+    background-size: cover; /* 可选 */
+}
+.userUpdate01 {
+    /* 顶部矩形框 */
+    position: absolute;
+    width: 1920px;
+    height: 80px;
+    left: 0;
+    top: 0;
+    box-sizing: border-box;
+
+
+    background: rgb(123, 90, 90);
+    border: 1px solid rgb(90, 76, 76);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.userUpdate02 {
+    /* 返回 */
+    position: absolute;
+    width: 162px;
+    height: 31px;
+    left: 0px;
+    top: 35px;
+
+
+    color: rgb(32, 24, 24);
+    font-family: Source Han Serif CN;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 10px;
+    letter-spacing: 42px;
+    text-align: center;
+    text-decoration: none;
+}
+.userUpdate03 {
+    /* 用户信息 */
+    position: absolute;
+    width: 535px;
+    height: 64px;
+    left: 400px;
+    top: 15px;
+    bottom: 500px;
+
+
+    color: rgb(32, 24, 24);
+    font-family: Muyao-Softbrush;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 52px;
+    letter-spacing: 58px;
+    text-align: center;
+}
+.userUpdate04 {
+    /* 用户名： */
+    position: absolute;
+    width: 400px;
+    height: 86px;
+    left: 0px;
+    top: 100px;
+
+    color: rgb(32, 24, 24);
+    font-family: Muyao-Softbrush;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 50px;
+    letter-spacing: 30px;
+    text-align: center;
+}
+.userUpdate05 {
+    /* 输入框样式 */
+    position: absolute;
+    width: 240px;
+    height: 30px;
+    left: 260px;
+    top: 110px;
+    box-sizing: border-box;
+
+    border: 1px solid rgb(88, 152, 217);
+}
+.userUpdate06 {
+    /* button样式 */
+    position: absolute;
+    width: 90px;
+    height: 31px;
+    left: 550px;
+    top: 530px;
+
+    border-radius: 4px;
+
+}

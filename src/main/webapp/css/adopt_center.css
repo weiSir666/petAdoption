@@ -1,0 +1,401 @@
+.background{
+    /* 领养中心 */
+    /*position: relative;*/
+    width: 1920px;
+    height: 1080px;
+
+
+    background: rgb(255, 255, 255);
+    border: 1px solid rgb(255, 255, 255);
+}
+.indexmain{
+    /* 主页 */
+    position: absolute;
+    width: 230px;
+    height: 55px;
+    left: 50px;
+    right: 1740px;
+    top: 28px;
+    bottom: 997px;
+
+	
+	color: rgb(43, 35, 35);     font-family: Source Han Serif CN;     font-size: 24px;     font-weight: 400;     line-height: 34px;     letter-spacing: 11px;     text-align: left;     text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.index2{
+    /* 个人中心 */
+    position: absolute;
+    width: 505px;
+    height: 55px;
+    left: 288px;
+    right: 1329px;
+    top: 28px;
+    bottom: 997px;
+
+
+    color: rgb(43, 35, 35);     font-family: Source Han Serif CN;     font-size: 24px;     font-weight: 400;     line-height: 34px;     letter-spacing: 11px;     text-align: left;     text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.rectangle{
+    /* 矩形 4 */
+    position: absolute;
+    width: 1920px;
+    height: 111px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 969px;
+
+
+    background: rgb(75, 187, 171);
+}
+.adoptcenter{
+    /* 领养中心 */
+    position: absolute;
+    width: 450px;
+    height: 100px;
+    left: 750px;
+    top: 100px;
+
+
+    color: rgb(32, 24, 24);
+    font-family: ZhenyanGB;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 65px;
+    letter-spacing: 42px;
+    text-align: center;
+
+
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.pic3{
+    /* 三号猫图片 */
+    position: absolute;
+    width: 378px;
+    height: 375px;
+    left: 1225px;
+    right: 317px;
+    top: 291px;
+    bottom: 414px;
+
+
+    /*background: url(../images/cat2.jpg);*/
+}
+.pic1{
+    /* 一号猫图片 */
+    position: absolute;
+    width: 359px;
+    height: 339px;
+    left: 277px;
+    right: 1284px;
+    top: 262px;
+    bottom: 479px;
+
+
+    background: url(../images/cat1.jpg);
+
+    border-radius:
+            25px;
+
+}
+.pic2{
+    /* 二号猫图片 */
+    position: absolute;
+    width: 210px;
+    height: 300px;
+    left: 835px;
+    right: 875px;
+    top: 321px;
+    bottom: 459px;
+
+
+    background: url(../images/cat2.jpg);
+}
+.ellipse1{
+    /* 椭圆 1 */
+    position: absolute;
+    width: 303px;
+    height: 300px;
+    left: 305px;
+    right: 1312px;
+    top: 282px;
+    bottom: 498px;
+
+
+    background: rgb(192, 169, 169);
+}
+.ellipse2{
+    /* 椭圆 2 */
+    position: absolute;
+    width: 359px;
+    height: 339px;
+    left: 1235px;
+    right: 326px;
+    top: 301px;
+    bottom: 440px;
+
+
+    background: rgb(196, 196, 196);
+}
+.third{
+    /* 三号 */
+    position: absolute;
+    width: 170px;
+    height: 95px;
+    left: 1339px;
+    right: 411px;
+    top: 666px;
+    bottom: 319px;
+
+
+    color: rgb(32, 24, 24);
+    font-family: Noto Sans SC;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 95px;
+    letter-spacing: 42px;
+    text-align: center;
+
+
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.first{
+    /* 一号 */
+    position: absolute;
+    width: 170px;
+    height: 95px;
+    left: 371px;
+    right: 1379px;
+    top: 666px;
+    bottom: 319px;
+
+
+    color: rgb(32, 24, 24);
+    font-family: Noto Sans SC;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 95px;
+    letter-spacing: 42px;
+    text-align: center;
+
+
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.second{
+    /* 二号 */
+    position: absolute;
+    width: 170px;
+    height: 95px;
+    left: 855px;
+    right: 895px;
+    top: 666px;
+    bottom: 319px;
+
+
+    color: rgb(32, 24, 24);
+    font-family: Noto Sans SC;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 95px;
+    letter-spacing: 42px;
+    text-align: center;
+
+
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.firsttext{
+    /* 他是一号 */
+    position: absolute;
+    width: 207px;
+    height: 45px;
+    left: 353px;
+    top: 809px;
+
+
+    color: rgb(0, 0, 0);
+    font-family: TsangerShuYuanT;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 45px;
+    letter-spacing: 21px;
+    text-align: center;
+
+
+}
+.thirdtext{
+    /* 他是三号 */
+    position: absolute;
+    width: 207px;
+    height: 45px;
+    left: 1317px;
+    top: 799px;
+
+
+    color: rgb(0, 0, 0);
+    font-family: TsangerShuYuanT;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 45px;
+    letter-spacing: 21px;
+    text-align: center;
+
+
+}
+.secondtext{
+    /* 他是二号 */
+    position: absolute;
+    width: 207px;
+    height: 45px;
+    left: 835px;
+    top: 809px;
+
+
+    color: rgb(0, 0, 0);
+    font-family: TsangerShuYuanT;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 45px;
+    letter-spacing: 21px;
+    text-align: center;
+
+}
+.button_cat1{
+    /* 一号 */
+    position: absolute;
+    width: 170px;
+    height: 95px;
+    left: 371px;
+    right: 1379px;
+    top: 666px;
+    bottom: 319px;
+
+}
+.button_cat2{
+    /* 二号 */
+    position: absolute;
+    width: 170px;
+    height: 95px;
+    left: 855px;
+    right: 895px;
+    top: 666px;
+    bottom: 319px;
+
+}
+.petimglocation{
+    /* OIP-C */
+    position: absolute;
+    width: 384px;
+    height: 216px;
+    top: 270px;
+    border-radius: 25px;
+}
+.petnamelocation{
+    /* 一号 */
+    position: absolute;
+    width: 200px;
+    height: 95px;
+    top: 500px;
+}
+.petcommentlocation{
+    /* 11111评论 */
+    position: absolute;
+    width: 444px;
+    height: 166px;
+    top: 894px;
+    bottom: 20px;
+
+
+    color: rgb(0, 0, 0);
+    font-family: TsangerShuYuanT;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 45;
+    letter-spacing: 21px;
+    text-align: left;
+
+
+}
+.petbuttonlocation{
+    /* 他是一号 */
+    position: absolute;
+    width: 240px;
+    height: 40px;
+    top: 600px;
+}
+.petbuttontextstyle{
+    color: rgb(0, 0, 0);
+    font-family: TsangerShuYuanT;
+    font-size: 30px;
+    line-height: 50px;
+    letter-spacing: 15px;
+    text-align: center;
+    text-decoration: none;
+}
+.petnamestyle{
+    /* 一号 */
+
+    color: rgb(32, 24, 24);
+    font-family: Noto Sans SC;
+    font-size: 35px;
+    line-height: 50px;
+    letter-spacing: 5px;
+    text-align: center;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.righthead{
+    /* RightArrowHead */
+    position: absolute;
+    width: 94px;
+    height: 128px;
+    left: 1684px;
+    right: 142px;
+    top: 427px;
+    bottom: 525px;
+
+}
+.letfhead{
+    /* RightArrowHead */
+    position: absolute;
+    width: 94px;
+    height: 128px;
+    left: 115px;
+    right: 1711px;
+    top: 438px;
+    bottom: 514px;
+}
+.tableForComments {
+    /* 表格位置 */
+    position: absolute;
+    width: 382px;
+    left: 800px;
+    top: 700px;
+
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    letter-spacing: 5px;
+    text-align: center;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    table-layout: fixed;
+}

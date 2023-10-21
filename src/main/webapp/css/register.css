@@ -1,0 +1,205 @@
+.background {
+    /* 背景 */
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+
+    background-image: url("../images/1.webp");
+    background-size: cover;
+
+
+}
+.FORM {
+    /* 登录\注册大框框 */
+    position: absolute;
+    width: 699px;
+    height: 651px;
+    left: 69px;
+    right: 1152px;
+    top: 100px;
+    bottom: 215px;
+
+
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.border {
+    /* 修饰登录注册大框框 */
+    position: absolute;
+    width: 699px;
+    height: 650.5px;
+    left: 100px;
+    right: 100px;
+    top: 100px;
+    bottom: 0.5px;
+}
+.mask {
+    /* 将大框框设置为白色 */
+    position: absolute;
+    width: 699px;
+    height: 650.5px;
+    left: 100px;
+    top: 100px;
+    box-sizing: border-box;
+
+    background: rgb(255, 255, 255);
+    border: 1px solid rgb(233, 30, 99);
+    box-shadow: 0px 3px 49px rgba(0, 0, 0, 0.06);
+
+    border-radius:20px;
+
+}
+.login_01 {
+    /* 登录方块模块设计外层 */
+    position: absolute;
+    width: 190px;
+    height: 76px;
+    left: 159px;
+    top: 38px;
+    box-sizing: border-box;
+
+}
+.login_02 {
+    /* 设置登录方块颜色 */
+    position: absolute;
+    width: 190px;
+    height: 76px;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+
+    background: linear-gradient(135.00deg, rgba(185.56,113.75,107.12,1.00) 0%,rgba(250,63,25,1.00) 44.593%,rgba(250,89,25,1.00) 83.407%,rgba(250,100,25,1.00) 100%);
+}
+.login_03 {
+    /* 登录方块字体设计 */
+    position: absolute;
+    width: 56px;
+    height: 28px;
+    left: 35.26%;
+    right: 35.26%;
+    top: 31.58%;
+    bottom: 31.58%;
+
+
+    color: rgb(255, 255, 255);
+    font-family: Noto Sans SC;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+.register_01 {
+    /* 注册方块模块设计外层 */
+    position: absolute;
+    width: 190px;
+    height: 76px;
+    left: 49.93%;
+    right: 22.89%;
+    top: 5.84%;
+    bottom: 82.49%;
+}
+.register_02 {
+    /* 设置注册方块颜色 */
+    position: absolute;
+    width: 190px;
+    height: 76px;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+
+    background: rgb(237, 202, 202);
+}
+.register_03 {
+    /* 注册方块字体 */
+    position: absolute;
+    width: 56px;
+    height: 28px;
+    left: 35.26%;
+    right: 35.26%;
+    top: 31.58%;
+    bottom: 31.58%;
+
+
+    color: rgb(212, 32, 32);
+    font-family: Noto Sans SC;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.form {
+    /* Form Content */
+    position: absolute;
+    width: 550px;
+    height: 284px;
+    left: 74px;
+    right: 75px;
+    top: 207px;
+    bottom: 160px;
+}
+
+.form_01 {
+    /* Form/TextfieldMandatory */
+    position: relative;
+    width: 550px;
+    height: 46.19px;
+}
+.form_01:focus-within {
+    background: #dfd7cf;
+}
+.form_02 {
+    /* Form/TextfieldFilled */
+    position: relative;
+    width: 550px;
+    height: 46.19px;
+}
+.form_02:focus-within {
+    background: #dfd7cf;
+}
+.button {
+    background-color: rgb(244, 82, 82);
+    width: 550px;
+    height: 46.19px;
+    border:none;
+    color:white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display:inline-block;
+    font-size: 16px;
+    margin:4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+    /*设置为椭圆形按钮*/
+}
+.button:hover {
+    background-color: coral;
+    color: cornsilk;
+}
+.button1 {
+    background-color: rgb(244, 82, 82);
+    width: 509px;
+    height: 30px;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+    /*设置为椭圆形按钮*/
+}
+.button1:hover {
+    background-color: coral;
+    color: cornsilk;
+}

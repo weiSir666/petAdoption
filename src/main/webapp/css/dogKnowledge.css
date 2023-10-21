@@ -1,0 +1,47 @@
+.dogKnowledge01 {
+    /* 养狗注意事项狗狗图片 */
+    position: absolute;
+    width: 872px;
+    height: 600px;
+    left: 38px;
+    right: 1010px;
+    top: 200px;
+    bottom: 326px;
+
+    opacity: 0.94;
+}
+.dogKnowledge02 {
+    /* 注意事项具体内容最外层 */
+    position: absolute;
+    width: 743px;
+    height: 600px;
+    left: 1052px;
+    right: 125px;
+    top: 200px;
+    bottom: 37px;
+
+
+    background: rgb(196, 196, 196);
+}
+.dogKnowledge03 {
+    /* 注意事项(小标题)： */
+    position: absolute;
+    width: 526px;
+    height: 63px;
+    left: 1150px;
+    right: 274px;
+    top: 90px;
+    bottom: 808px;
+
+    color: rgb(32, 24, 24);
+    font-family: Muyao-Softbrush;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 52px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+.dogKnowledgeFont {
+    font-size: 28px;
+    font-style: italic;
+}

@@ -1,0 +1,28 @@
+.userManagement2-01 {
+    /* 表格/基础表格 */
+    position: absolute;
+    width: 1600px;
+    height: 450px;
+    top: 60px;
+    /*background-color: #dfd7cf;*/
+}
+.userManagement2-02 {
+    width: 1600px;
+    height: 10px;
+    background-color: rgb(229, 233, 242);
+    font-size: 17px;
+    font-style: normal;
+    font-weight: normal;
+    /*隐藏多出来的部分*/
+    text-overflow: ellipsis;
+}
+.userManagement2-03 {
+    text-align: center;
+}
+.userManagement2-04 {
+    text-decoration: none;
+    color: blue;
+}
+.userManagement2-04:hover {
+    color: purple;
+}

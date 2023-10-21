@@ -1,0 +1,165 @@
+.background {
+    /* 背景 */
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+
+    background: rgb(255, 255, 255);
+}
+.bangs {
+    /* 页面上方棕色矩形 1 */
+    position: absolute;
+    width: 1920px;
+    height: 120px;
+    left: 0;
+    top: 0;
+    box-sizing: border-box;
+
+
+    background: rgb(123, 90, 90);
+    border: 1px solid rgb(90, 76, 76);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.LinkToMain {
+    /* 跳回主页链接 */
+    position: absolute;
+    width: 155px;
+    height: 64px;
+    left: 41px;
+    top: 41px;
+
+
+    color: rgb(32, 24, 24);
+    font-family: Source Han Serif CN;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 42px;
+    text-align: center;
+    text-decoration: none;
+}
+.personal {
+    /* 个人中心文字 */
+    position: absolute;
+    width: 498px;
+    height: 152px;
+    left: 661px;
+    right: 761px;
+    top: 29px;
+    bottom: 899px;
+
+
+    color: rgb(32, 24, 24);
+    font-family: Muyao-Softbrush;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 52px;
+    letter-spacing: 58px;
+    text-align: center;
+}
+.head {
+    /* 头像.png */
+    position: absolute;
+    width: 101px;
+    height: 101px;
+    left: 1.3%;
+    right: 93.44%;
+    top: 12.04%;
+    bottom: 78.61%;
+}
+.photo {
+    /* 狗狗图片.png */
+    position: absolute;
+    width: 500px;
+    height: 750px;
+    left: 1150px;
+    right: 0;
+    top: 180px;
+    bottom: 0;
+}
+.front {
+    /* 文字 */
+    position: absolute;
+    width: 318px;
+    height: 49px;
+
+    color: rgb(0, 0, 0);
+    font-family: TsangerShuYuanT;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 45px;
+    letter-spacing: 21px;
+    text-align: center;
+}
+.form {
+    /* form表单 */
+    position: absolute;
+    width: 833px;
+    height: 667px;
+    left: 30px;
+    right: 1057px;
+    top: 236px;
+    bottom: 177px;
+
+    background: rgb(255, 255, 255);
+}
+.button_01 {
+    /* 按钮最外层 */
+    position: absolute;
+    width: 190px;
+    height: 76px;
+    top: 600px;
+
+    background: linear-gradient(-45.00deg, rgba(73,143,242,1.00),rgba(73,101,242,1.00) 100%);
+
+    border-radius: 48px;
+    border: none;
+
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+
+    color: rgb(255, 255, 255);
+    font-family: Noto Sans SC   ;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+.button_01:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.text {
+    /* 输入文本框大小 */
+    position: absolute;
+    width: 496px;
+    height: 49px;
+    left: 250px;
+    right: 300px;
+}
+.button_02 {
+    /* 按钮最外层 */
+    position: absolute;
+    width: 190px;
+    height: 76px;
+    top: 835px;
+
+    background: linear-gradient(-45.00deg, rgba(73,143,242,1.00),rgba(73,101,242,1.00) 100%);
+
+    border-radius: 48px;
+    border: none;
+
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+
+    color: rgb(255, 255, 255);
+    font-family: Noto Sans SC   ;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+.button_02:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}

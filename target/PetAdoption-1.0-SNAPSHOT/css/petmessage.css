@@ -1,0 +1,250 @@
+.rectangle{
+/* 矩形 5 */
+position: absolute;
+width: 1920px;
+height: 143px;
+left: 0;
+top: 0;
+bottom: 969px;
+
+
+
+background: rgb(75, 187, 171);
+border: 1px solid rgb(255, 255, 255);
+}
+.mainindex{
+    /* 主页 */
+position: absolute;
+width: 230px;
+height: 55px;
+left: 70px;
+right: 1720px;
+top: 21px;
+bottom: 1007px;
+
+
+color: rgb(32, 24, 24);
+font-family: PangMenZhengDao;
+font-size: 48px;
+font-weight: 400;
+line-height: 55px;
+letter-spacing: 42px;
+text-align: center;
+
+
+
+display: flex;
+flex-direction: row;
+align-items: center;
+}
+.adoptindex{
+    /* 领养中心 */
+position: absolute;
+width: 403px;
+height: 55px;
+left: 297px;
+right: 1320px;
+top: 21px;
+bottom: 1007px;
+
+
+color: rgb(32, 24, 24);
+font-family: PangMenZhengDao;
+font-size: 48px;
+font-weight: 400;
+line-height: 55px;
+letter-spacing: 42px;
+text-align: center;
+
+
+
+display: flex;
+flex-direction: row;
+align-items: center;
+}
+.wantadopt{
+    /* 圆形按钮 */
+position: absolute;
+width: 190px;
+height: 76px;
+left: 22.66%;
+right: 67.45%;
+top: 89.84%;
+bottom: 3.14%;
+
+}
+.retanglea{
+    /* Rectangle 127 Copy 🌈ease-in;lrgb;4 */
+position: absolute;
+width: 190px;
+height: 76px;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+background: linear-gradient(-45.00deg, rgba(73,143,242,1.00),rgba(73,101,242,1.00) 100%);
+
+border-radius:
+48px;
+
+}
+.background{
+    /* 宠物信息 */
+position: relative;
+width: 1920px;
+height: 1083px;
+
+
+background: rgb(255, 255, 255);
+}
+.backcenter{
+    /* Rectangle 127 Copy 🌈ease-in;lrgb;4 */
+position: absolute;
+width: 190px;
+height: 76px;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+background: linear-gradient(-45.00deg, rgba(73,143,242,1.00),rgba(73,101,242,1.00) 100%);
+
+border-radius:
+48px;
+}
+.back{
+    /* 圆形按钮 */
+position: absolute;
+width: 190px;
+height: 76px;
+left: 48.96%;
+right: 41.15%;
+top: 90.21%;
+bottom: 2.77%;
+
+
+}
+.backcenterindex{
+    /* 圆形按钮 */
+position: absolute;
+width: 112px;
+height: 28px;
+left: 20.53%;
+right: 20.53%;
+top: 31.58%;
+bottom: 31.58%;
+
+
+color: rgb(255, 255, 255);
+font-family: Noto Sans SC;
+font-size: 28px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0px;
+text-align: center;
+
+
+}
+.adopt{
+    /* 圆形按钮 */
+position: absolute;
+width: 190px;
+height: 76px;
+left: 22.66%;
+right: 67.45%;
+top: 89.84%;
+bottom: 3.14%;
+
+
+}
+.adoptback{
+    /* Rectangle 127 Copy 🌈ease-in;lrgb;4 */
+position: absolute;
+width: 190px;
+height: 76px;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+background: linear-gradient(-45.00deg, rgba(73,143,242,1.00),rgba(73,101,242,1.00) 100%);
+
+border-radius:
+48px;
+
+}
+.adoptindex{
+    /* 圆形按钮 */
+position: absolute;
+width: 112px;
+height: 28px;
+left: 20.53%;
+right: 20.53%;
+top: 31.58%;
+bottom: 31.58%;
+
+
+color: rgb(255, 255, 255);
+font-family: Noto Sans SC;
+font-size: 28px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0px;
+text-align: center;
+
+
+}
+.message{
+    /* 信息按钮 */
+position: absolute;
+width: 190px;
+height: 76px;
+left: 69.22%;
+right: 20.89%;
+top: 90.21%;
+bottom: 2.77%;
+
+
+}
+.messageback{
+    /* Rectangle 127 Copy 🌈ease-in;lrgb;4 */
+position: absolute;
+width: 190px;
+height: 76px;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+background: linear-gradient(-45.00deg, rgba(73,143,242,1.00),rgba(73,101,242,1.00) 100%);
+
+border-radius:
+48px;
+
+}
+.messageindex{
+    /* 信息按钮 */
+position: absolute;
+width: 112px;
+height: 28px;
+left: 20.53%;
+right: 20.53%;
+top: 31.58%;
+bottom: 31.58%;
+
+
+color: rgb(255, 255, 255);
+font-family: Noto Sans SC;
+font-size: 28px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0px;
+text-align: center;
+
+
+}

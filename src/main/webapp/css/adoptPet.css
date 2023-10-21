@@ -1,0 +1,531 @@
+.birthcake{
+    /* a964f4ec_E895359_fb92fdba */
+    position: absolute;
+    width: 199px;
+    height: 168.38px;
+    left: 826px;
+    right: 890px;
+    top: 289px;
+    bottom: 481.62px;
+    background: url("../images/birthcake.png");
+}
+.id{
+    /* 编号 */
+    position: absolute;
+    width: 155px;
+    height: 81px;
+    left: 580px;
+    top: 416px;
+
+
+    color: rgb(17, 0, 253);
+    font-family: Noto Sans SC;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 95px;
+    letter-spacing: 0px;
+    text-align: left;
+
+}
+.birth{
+    /* 生日 */
+    position: absolute;
+    width: 155px;
+    height: 81px;
+    left: 1055px;
+    top: 240px;
+    color: rgb(17, 0, 253);
+    font-family: Noto Sans SC;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 95px;
+    letter-spacing: 0px;
+    text-align: left;
+
+
+}
+.please{
+    /* R-C */
+    position: absolute;
+    width: 300px;
+    height: 297px;
+    left: 1281px;
+    right: 341px;
+    top: 220px;
+    bottom: 478px;
+    background: url(../images/R-Cd.jpg);
+}
+.type{
+    /* R-C (1) */
+    position: absolute;
+    width: 197px;
+    height: 187px;
+    left: 324px;
+    right: 1373px;
+    top: 560px;
+    bottom: 209px;
+    background: url(../images/R-CA.png);
+}
+.typetxt{
+    /* 类型 */
+    position: absolute;
+    width: 155px;
+    height: 81px;
+    left: 585px;
+    top: 567px;
+    color: rgb(17, 0, 253);
+    font-family: Noto Sans SC;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 95px;
+    letter-spacing: 0px;
+    text-align: left;
+
+
+}
+.idtext{
+    /* 1 */
+    position: absolute;
+    width: 159px;
+    height: 94px;
+    left: 584px;
+    right: 1181px;
+    top: 416px;
+    bottom: 438px;
+    color: rgb(0, 0, 0);
+    font-family: Noto Sans SC;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 53;
+    letter-spacing: 0px;
+    text-align: left;
+
+
+}
+.rectangle{
+    /* 矩形 5 */
+    position: absolute;
+    width: 1920px;
+    height: 111px;
+    left: 0;
+    top: 0;
+    bottom: 969px;
+
+
+
+    background: rgb(75, 187, 171);
+    border: 1px solid rgb(255, 255, 255);
+}
+.mainindex{
+    /* 主页 */
+    position: absolute;
+    width: 230px;
+    height: 55px;
+    left: 70px;
+    right: 1720px;
+    top: 21px;
+    bottom: 1007px;
+
+
+   color: rgb(43, 35, 35);     
+font-family: Source Han Serif CN;     
+	font-size: 24px;     
+	font-weight: 400; 
+	line-height: 34px;    
+	letter-spacing: 11px;   
+	text-align: left;    
+	text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.adoptindexcenter{
+    /* 领养中心 */
+    position: absolute;
+    width: 403px;
+    height: 55px;
+    left: 297px;
+    right: 1320px;
+    top: 21px;
+    bottom: 1007px;
+
+
+  
+   color: rgb(43, 35, 35);     
+font-family: Source Han Serif CN;     
+	font-size: 24px;     
+	font-weight: 400; 
+	line-height: 34px;    
+	letter-spacing: 11px;   
+	text-align: left;    
+	text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.wantadopt{
+    /* 圆形按钮 */
+    position: absolute;
+    width: 190px;
+    height: 76px;
+    left: 22.66%;
+    right: 67.45%;
+    top: 89.84%;
+    bottom: 3.14%;
+
+}
+.retanglea{
+    /* Rectangle 127 Copy ?ease-in;lrgb;4 */
+    position: absolute;
+    width: 190px;
+    height: 76px;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+
+    background: linear-gradient(-45.00deg, rgba(73,143,242,1.00),rgba(73,101,242,1.00) 100%);
+
+    border-radius:
+            48px;
+
+}
+.background{
+    /* 宠物信息 */
+    position: relative;
+    width: 1920px;
+    height: 1083px;
+
+
+    background: rgb(255, 255, 255);
+}
+.backcenter{
+    /* Rectangle 127 Copy ?ease-in;lrgb;4 */
+    position: absolute;
+    width: 190px;
+    height: 76px;
+    left: -16px;
+    right: 0%;
+    top: 0px;
+    bottom: 0%;
+    background: linear-gradient(-45.00deg, rgba(73,143,242,1.00),rgba(73,101,242,1.00) 100%);
+    border-radius: 48px;
+}
+.textstyle{
+
+  
+    color: rgb(43, 35, 35);     font-family: Source Han Serif CN;     font-size: 24px;     font-weight: 400;     line-height: 34px;     letter-spacing: 11px;     text-align: left;     text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+
+}
+.back{
+    /* 圆形按钮 */
+    position: absolute;
+    width: 190px;
+    height: 76px;
+    left: 897px;
+    right: 41.15%;
+    top: 874px;
+    bottom: 2.77%;
+
+
+}
+.backcenterindex{
+    /* 圆形按钮 */
+    position: absolute;
+    width: 112px;
+    height: 28px;
+    left: 20.53%;
+    right: 20.53%;
+    top: 31.58%;
+    bottom: 31.58%;
+
+
+    color: rgb(255, 255, 255);
+    font-family: Noto Sans SC;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: center;
+
+
+}
+.adopt{
+    /* 圆形按钮 */
+    position: absolute;
+    width: 190px;
+    height: 76px;
+    left: 426px;
+    right: 67.45%;
+    top: 876px;
+    bottom: 3.14%;
+
+
+}
+.adoptback{
+    /* Rectangle 127 Copy ?ease-in;lrgb;4 */
+    position: absolute;
+    width: 190px;
+    height: 76px;
+    left: 0px;
+    right: 0%;
+    top: -1px;
+    bottom: 0%;
+    text-decoration: none;
+    background: linear-gradient(-45.00deg, rgba(73,143,242,1.00),rgba(73,101,242,1.00) 100%);
+    border-radius: 48px;
+
+}
+.adoptindex{
+    /* 圆形按钮 */
+    position: absolute;
+    width: 280px;
+    height: 28px;
+    left: 16px;
+    right: 20.53%;
+    top: 18px;
+    bottom: 31.58%;
+    color: rgb(43, 35, 35);
+    font-family: Source Han Serif CN;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 11px;
+    text-align: left;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+
+}
+.message{
+    /* 信息按钮 */
+    position: absolute;
+    width: 190px;
+    height: 76px;
+    left: 69.22%;
+    right: 20.89%;
+    top: 90.21%;
+    bottom: 2.77%;
+
+
+}
+.messageback{
+    /* Rectangle 127 Copy ?ease-in;lrgb;4 */
+    position: absolute;
+    width: 190px;
+    height: 76px;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+
+    background: linear-gradient(-45.00deg, rgba(73,143,242,1.00),rgba(73,101,242,1.00) 100%);
+
+    border-radius:
+            48px;
+
+}
+.messageindex{
+    /* 信息按钮 */
+    position: absolute;
+    width: 112px;
+    height: 28px;
+    left: 20.53%;
+    right: 20.53%;
+    top: 31.58%;
+    bottom: 31.58%;
+
+
+    color: rgb(255, 255, 255);
+    font-family: Noto Sans SC;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: center;
+
+
+}
+.seximg{
+    /* d4312ee1_E379998_9c0abf34 */
+    position: absolute;
+    width: 197.31px;
+    height: 201.02px;
+    left: 820px;
+    right: 899.69px;
+    top: 583px;
+    bottom: 225.06px;
+
+}
+.sextext{
+    /* 性别 */
+    position: absolute;
+    width: 155px;
+    height: 81px;
+    left: 1059px;
+    top: 574px;
+    color: rgb(17, 0, 253);
+    font-family: Noto Sans SC;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 95px;
+    letter-spacing: 0px;
+    text-align: left;
+
+}
+.commentbackground{
+    /* R-C */
+    position: absolute;
+    width: 330px;
+    height: 267px;
+    left: 1260px;
+    right: 330px;
+    top: 649px;
+    bottom: 167px;
+
+
+    background-image: url("../images/R-Ce.png");
+}
+.commenttext{
+    /* 这是一段文本(评论) */
+    position: absolute;
+    width: 247px;
+    height: 175px;
+    left: 1313px;
+    right: 377px;
+    top: 628px;
+    bottom: 221px;
+
+}
+.comback{
+    /* Rectangle 127 Copy ?ease-in;lrgb;4 */
+    position: absolute;
+    width: 190px;
+    height: 76px;
+    left: 1321px;
+    right: 401px;
+    top: 874px;
+    bottom: 30px;
+    background: linear-gradient(-45.00deg, rgba(73,143,242,1.00),rgba(73,101,242,1.00) 100%);
+    border-radius: 48px;
+
+}
+.comm{
+    /* 信息按钮 */
+    position: absolute;
+    width: 112px;
+    height: 28px;
+    left: 20.53%;
+    right: 20.53%;
+    top: 31.58%;
+    bottom: 31.58%;
+
+
+    color: rgb(255, 255, 255);
+    font-family: Noto Sans SC;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: center;
+
+
+}
+.id{
+    /* 1 */
+    position: absolute;
+    width: 155px;
+    height: 81px;
+    left: 586px;
+    top: 239px;
+    color: rgb(17, 0, 253);
+    font-family: Noto Sans SC;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 95px;
+    letter-spacing: 0px;
+    text-align: left;
+
+
+}
+.typetext{
+    /* happy猫 */
+    position: absolute;
+    width: 159px;
+    height: 94px;
+    left: 581px;
+    right: 1181px;
+    top: 723px;
+    bottom: 154px;
+    color: rgb(0, 0, 0);
+    font-family: Noto Sans SC;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 53px;
+    letter-spacing: 0px;
+    text-align: left;
+
+
+}
+.sex3{
+    /* 雄性 */
+    position: absolute;
+    width: 159px;
+    height: 94px;
+    left: 1057px;
+    right: 708px;
+    top: 736px;
+    bottom: 159px;
+    color: rgb(0, 0, 0);
+    font-family: Noto Sans SC;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 53px;
+    letter-spacing: 0px;
+    text-align: left;
+
+
+}
+.imgcat{
+    /* 1803b1a1cd11728b0551d5eb8dfcc3cec2fd2cfa */
+    position: absolute;
+    width: 288px;
+    height: 162px;
+    left: 263px;
+    right: 1390px;
+    top: 282px;
+    bottom: 443px;
+
+
+}
+.commentimg{
+    /* R-C */
+    position: absolute;
+    width: 330px;
+    height: 267px;
+    left: 1269px;
+    right: 345px;
+    top: 581px;
+    bottom: 167px;
+
+
+}
+.username{
+    /* 8de317d3_E885999_245f75fb */
+    position: absolute;
+    width: 104px;
+    height: 112px;
+    left: 1653px;
+    right: 163px;
+    top: 8px;
+    bottom: 963px;
+
+}

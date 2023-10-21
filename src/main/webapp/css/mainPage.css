@@ -1,0 +1,213 @@
+.Backgroundimage01 {
+    /* 主页背景图 */
+    width: 1920px;
+    height: 1080px;
+    background-image: url("../images/R-C.jpg");
+    animation: carousel 20s infinite ;
+
+}
+.mainPageRectangle01 {
+    /* 主页最上部矩形 1 */
+    position: absolute;
+    width: 1920px;
+    height: 120px;
+    left: 0;
+    top: -3px;
+    box-sizing: border-box;
+    background: rgb(111, 80, 80);
+    border: 1px solid rgb(90, 76, 76);
+    opacity: 0.8;
+}
+.mainPageFont01 {
+    /* 主页黑体字 */
+    position: absolute;
+    width: 155px;
+    height: 64px;
+    left: 41px;
+    top: 41px;
+
+    color: rgb(32, 24, 24);
+    font-family: Source Han Serif CN;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 42px;
+    text-align: center;
+}
+.mainPageFont02 {
+    /* 宠物知识 */
+    position: absolute;
+    width: 140px;
+    height: 41px;
+    left: 248px;
+    top: 41px;
+
+    color: rgb(43, 35, 35);
+    font-family: Source Han Serif CN;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 11px;
+    text-align: left;
+    text-decoration: none;
+}
+.mainPageFont03 {
+    /* 领养中心 */
+    position: absolute;
+    width: 140px;
+    height: 41px;
+    left: 458px;
+    top: 41px;
+
+    color: rgb(19, 16, 16);
+    font-family: Source Han Serif CN;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 11px;
+    text-align: left;
+    text-decoration: none;
+}
+.mainPageFont04 {
+    /* 个人中心 */
+    position: absolute;
+    width: 140px;
+    height: 41px;
+    left: 668px;
+    top: 41px;
+
+    color: rgb(19, 16, 16);
+    font-family: Source Han Serif CN;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 11px;
+    text-align: left;
+    text-decoration: none;
+}
+.mainPageFont05 {
+    /* 宠物查找： */
+    position: absolute;
+    width: 450px;
+    height: 32px;
+    left: 1088px;
+    top: 41px;
+
+    color: rgb(19, 16, 16);
+    font-family: Source Han Serif CN;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 11px;
+    text-align: left;
+}
+.mainPageLogin01 {
+    /* 登录注册最外层 */
+    position: absolute;
+    width: 190px;
+    height: 76px;
+    left: 86.09%;
+    right: 4.01%;
+    top: 25px;
+}
+.mainPageLogin02 {
+    /* 绿色渐变效果 */
+    position: absolute;
+    width: 190px;
+    height: 76px;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    background: linear-gradient(-45.00deg, rgba(90,201,56,0.25) 100%,rgba(73,101,242,1.00) 100%);
+    border-radius:48px;
+}
+.mainPageLogin03 {
+    /* 登录注册最里层 */
+    position: absolute;
+    width: 123px;
+    height: 28px;
+    left: 17.63%;
+    right: 17.63%;
+    top: 31.58%;
+    bottom: 31.58%;
+
+    color: rgb(255, 255, 255);
+    font-family: Noto Sans SC;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: center;
+    text-decoration: none;
+}
+.mainPageFont06 {
+    /* 我们随时欢迎你们来咨询！ */
+    position: absolute;
+    width: 781px;
+    height: 148px;
+    left: 999px;
+    right: 140px;
+    top: 707px;
+    bottom: 225px;
+
+    font-family: lianmengqiyilushuaizhengruiheiti;
+    font-size: 48px;
+    font-weight: 400;
+    font-style: italic;
+    line-height: 28px;
+    letter-spacing: 11px;
+    text-align: left;
+}
+.buttonSp {
+    /* 视频按钮 */
+    position: absolute;
+    width: 256px;
+    height: 165px;
+    left: 124px;
+    right: 1540px;
+    top: 240px;
+    bottom: 675px;
+
+
+}
+.buttonSp_02 {
+    /* Path */
+    position: absolute;
+    width: 200px;
+    height: 80px;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    border:none;
+    background: rgb(178, 182, 188);
+
+    border-radius:
+            4px;
+    color: rgb(255, 255, 255);
+    font-family: lianmengqiyilushuaizhengruiheiti;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0px;
+    text-align: center;
+
+}
+.buttonSp_02:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+#video-popup {
+    padding-top: 40px;
+}
+
+.close-btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: black;
+}
+.close-btn:hover {
+    color: red;
+}

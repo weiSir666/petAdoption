@@ -1,0 +1,786 @@
+.totalbackground{
+    /* 宠物管理 */
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+
+
+    background: rgb(255, 255, 255);
+}
+.userManagement00 {
+    /* 左侧定位框 */
+    position: absolute;
+    width: 240px;
+    height: 610px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    /* background-color: aqua; */
+}
+
+.userManagement01 {
+    /* 宠物领养系统头部蓝色矩形框 */
+    position: absolute;
+    width: 200px;
+    height: 36px;
+    left: 20px;
+    top: 22px;
+    background: rgb(91, 142, 217);
+    border-radius:
+            4px;
+}
+
+.userManagement02 {
+    /* 宠物管理系统字体 */
+    position: absolute;
+    width: 164px;
+    height: 34px;
+    left: 39px;
+    right: 37px;
+    top: 18px;
+    bottom: 1525.77px;
+
+    color: rgb(32, 24, 24);
+    font-family: Source Han Serif CN;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 0px;
+    letter-spacing: 4px;
+    text-align: left;
+    text-decoration: none;
+}
+
+.userManagement07 {
+
+    /* 宠物管理边框 */
+    position: absolute;
+    width: 200px;
+    height: 36px;
+    left: 18.5px;
+    top: 170px;
+
+    background: rgb(233, 242, 255);
+
+    border-radius:
+            8px;
+
+}
+.userManagement03 {
+/* Rectangle */
+position: absolute;
+    width: 200px;
+    height: 32px;
+    left: 20px;
+    top: 100px;
+
+
+    background: rgb(203, 203, 203);
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.userManagement04 {
+/* 后台管理 */
+position: absolute;
+    width: 121px;
+    height: 30px;
+    left: 60px;
+    right: 59px;
+    top: 5px;
+    bottom: 1392px;
+
+    color: rgb(0, 0, 0);
+    font-family: TsangerShuYuanT;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+	text-decoration:none;
+}
+
+.userManagement05 {
+/* 用户信息边框 */
+position: absolute;
+    width: 200px;
+    height: 32px;
+    left: 18.5px;
+    top: 135px;
+
+
+    background: rgb(203, 203, 203);
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.userManagement06 {
+/* 用户信息 */
+position: absolute;
+    width: 179px;
+    height: 25px;
+    left: 61px;
+    right: 0px;
+    top: 10px;
+    bottom: 1360.11px;
+
+
+    color: rgb(0, 0, 0);
+    font-family: TsangerShuYuanT;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0px;
+    text-align: left;
+    text-decoration: none;
+}
+
+
+.userManagement08 {
+    /* 宠物管理 */
+    position: absolute;
+    width: 179px;
+    height: 25px;
+    left: 61px;
+    right: 0px;
+    top: 10px;
+    bottom: 1360.11px;
+
+
+    color: rgb(0, 0, 0);
+    font-family: TsangerShuYuanT;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0px;
+    text-align: left;
+    text-decoration: none;
+}
+
+.userManagement09 {
+    /* 评论管理边框 */
+    position: absolute;
+    width: 200px;
+    height: 32px;
+    left: 18.5px;
+    top: 205px;
+
+
+    background: rgb(203, 203, 203);
+    border: 1px solid rgb(255, 255, 255);
+}
+.userManagement10 {
+    /* 评论管理 */
+    position: absolute;
+    width: 179px;
+    height: 25px;
+    left: 61px;
+    right: 0px;
+    top: 10px;
+    bottom: 1360.11px;
+
+
+    color: rgb(0, 0, 0);
+    font-family: TsangerShuYuanT;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0px;
+    text-align: left;
+    text-decoration: none;
+}
+
+.userManagement11 {
+    /* 领养审核管理边框 */
+    position: absolute;
+    width: 200px;
+    height: 32px;
+    left: 18.5px;
+    top: 240px;
+
+
+    background: rgb(203, 203, 203);
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.userManagement12 {
+    /* 领养审核管理 */
+    position: absolute;
+    width: 179px;
+    height: 25px;
+    left: 61px;
+    right: 0px;
+    top: 10px;
+    bottom: 1360.11px;
+
+
+    color: rgb(0, 0, 0);
+    font-family: TsangerShuYuanT;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0px;
+    text-align: left;
+    text-decoration: none;
+}
+.userManagement13 {
+    /* 右上部分顶部矩形框 */
+    position: absolute;
+    width: 1000px;
+    height: 100px;
+    left: 240px;
+    right: -240px;
+    top: 0;
+    bottom: 0;
+
+
+    /* background: rgb(255, 255, 255); */
+    /* background-color: aquamarine; */
+    box-shadow: 0px 1px 1px rgba(0, 21, 41, 0.12);
+}
+.userManagement14 {
+    /* 用户管理标题矩形框*/
+    position: absolute;
+    width: 408px;
+    height: 83px;
+    left: 286px;
+    right: 1226px;
+    top: 25px;
+    bottom: 972px;
+
+    /* background: rgb(237, 223, 223); */
+}
+.userManagement15 {
+    /* 用户管理大标题 */
+    position: absolute;
+    width: 319px;
+    height: 83px;
+    left: 35px;
+    right: 11px;
+    top: 0px;
+    bottom: 958px;
+
+
+    color: rgb(0, 0, 0);
+    font-family: TsangerShuYuanT;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: 0px;
+    text-align: center;
+    font-style: italic;
+}
+.userManagement16 {
+    /* 用户查询矩形框 */
+    position: absolute;
+    width: 1000px;
+    height: 50px;
+    left: 0px;
+    right: 0px;
+    top: 110px;
+    bottom: 768.58px;
+
+
+    background: rgb(196, 196, 196);
+}
+.userManagement17 {
+    /* 用户名称查询： */
+    position: absolute;
+    width: 210px;
+    height: 33px;
+    left: 5px;
+    top: 15px;
+    bottom: 806px;
+
+
+    color: rgb(0, 0, 0);
+    font-family: TsangerShuYuanT;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 7px;
+    text-align: left;
+}
+.userManagement18 {
+    /* Input输入/5.Input输入框/2.文本域输入框/默认态 */
+    position: absolute;
+    width: 250px;
+    height: 30px;
+    left: 158px;
+    top: -5px;
+}
+.userManagement19 {
+    /* 查询按钮 */
+    position: absolute;
+    width: 70px;
+    height: 35px;
+    left: 420px;
+    top: -5px;
+    background: linear-gradient(-45.00deg, rgba(132.38,175.36,236.79,1.00),rgba(73,101,242,1.00) 100%);
+    border-radius: 50px;
+}
+
+.databackground{
+
+
+
+    /* 画板 5 */
+    position: absolute;
+    width: 1678px;
+    height: 984px;
+    left: 240px;
+    right: 2px;
+    top: 96px;
+    bottom: 0;
+
+    background: rgb(250, 246, 246);
+}
+.row{margin-right:-15px;margin-left:-15px}
+.col-lg-12{width:100%}
+.tableback{
+    /* 表格/多种数据可编辑 */
+    position: absolute;
+    width: 1652px;
+    height: 829px;
+    left: 26px;
+    right: 0;
+    top: 26px;
+    bottom: 129px;
+
+
+}
+.td1{
+    /* 列1 */
+    position: absolute;
+    width: 110.58px;
+    height: 133.12px;
+    left: 0%;
+    right: 93.31%;
+    top: 0%;
+    bottom: 83.94%;
+
+
+
+    background: rgb(229, 233, 242);
+    box-shadow: inset 0px -1px 0px rgb(224, 230, 237);,inset 1px 0px 0px rgb(224, 230, 237);,inset 0px 1px 0px rgb(224, 230, 237);
+}
+.td2{
+    /* 列1 */
+    position: absolute;
+    width: 236.96px;
+    height: 133.12px;
+    left: 6.78%;
+    right: 78.88%;
+    top: 0%;
+    bottom: 83.94%;
+
+
+
+    background: rgb(229, 233, 242);
+    box-shadow: inset 0px -1px 0px rgb(224, 230, 237);,inset 0px 1px 0px rgb(224, 230, 237);
+}
+.td3{
+    /* Bg */
+    /* 列2 */
+    position: absolute;
+    width: 236.96px;
+    height: 133.12px;
+    left: 21.19%;
+    right: 64.47%;
+    top: 0%;
+    bottom: 83.94%;
+
+
+
+    background: rgb(229, 233, 242);
+    box-shadow: inset 0px -1px 0px rgb(224, 230, 237);,inset 0px 1px 0px rgb(224, 230, 237);
+}
+.td4{
+    /* Bg */
+    /* 列2 */
+    position: absolute;
+    width: 236.96px;
+    height: 133.12px;
+    left: 35.59%;
+    right: 50.06%;
+    top: 0%;
+    bottom: 83.94%;
+
+
+
+
+    background: rgb(229, 233, 242);
+    box-shadow: inset 0px -1px 0px rgb(224, 230, 237);,inset 0px 1px 0px rgb(224, 230, 237);
+}
+.td5{
+    /* Bg */
+    /* 列3 */
+    position: absolute;
+    width: 200px;
+    height: 133px;
+    left: 49.94%;
+    right: 37.95%;
+    top: 0.01%;
+    bottom: 83.95%;
+
+
+
+
+    background: rgb(229, 233, 242);
+    box-shadow: inset 0px -1px 0px rgb(224, 230, 237);,inset 0px 1px 0px rgb(224, 230, 237);
+}
+.td6{
+    /* Bg *//* 列3 */
+    position: absolute;
+    width: 354px;
+    height: 133px;
+    left: 62.05%;
+    right: 16.53%;
+    top: -0.24%;
+    bottom: 84.2%;
+
+
+
+
+    background: rgb(229, 233, 242);
+    box-shadow: inset 0px -1px 0px rgb(224, 230, 237);,inset 0px 1px 0px rgb(224, 230, 237);
+}
+.td7{
+    /* Bg */
+    /* 列3 */
+    position: absolute;
+    width: 277.61px;
+    height: 133.12px;
+    left: 83.47%;
+    right: -0.28%;
+    top: 0%;
+    bottom: 83.94%;
+
+
+
+    background: rgb(229, 233, 242);
+    box-shadow: inset 0px -1px 0px rgb(224, 230, 237);,inset -1px 0px 0px rgb(224, 230, 237);,inset 0px 1px 0px rgb(224, 230, 237);
+}
+.guide{
+    /* 导航 */
+    position: absolute;
+    width: 1680px;
+    height: 80px;
+    left: 240px;
+    top: 0;
+
+
+}
+.rectangle1051{
+    /* Rectangle 1051 */
+    position: absolute;
+    width: 1680px;
+    height: 80px;
+    left: 240px;
+    right: 0;
+    top: 0;
+    bottom: 1000px;
+
+    background: rgb(255, 255, 255);
+    box-shadow: 0px 2px 6px rgba(0, 21, 41, 0.12);
+}
+.title{
+    /* 内页标题 */
+    position: absolute;
+    width: 414px;
+    height: 32px;
+    left: 263px;
+    right: 1243px;
+    top: 24px;
+    bottom: 1024px;
+
+
+}
+.text{
+    /* 产品中心 */
+    position: absolute;
+    width: 414px;
+    height: 32px;
+    left: 263px;
+    right: 1241px;
+    top: 24px;
+    bottom: 1024px;
+
+
+    color: rgb(0, 0, 0);
+    font-family: jiangxizhuokai;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0px;
+    text-align: left;
+
+
+}
+。button{
+    /* Rectangle 127 Copy ?ease-in;lrgb;4 */
+    position: absolute;
+    width: 223px;
+    height: 38px;
+    left: 1504px;
+    right: 53px;
+    top: 29px;
+
+
+    background: linear-gradient(-45.00deg, rgba(132.38,175.36,236.79,1.00) 0%,rgba(73,101,242,1.00) 100%);
+
+    border-radius:
+            48px;
+
+    color: rgb(255, 255, 255);
+    font-family: Microsoft YaHei;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0px;
+    text-align: center;
+
+
+
+}
+.head{
+    /* 形状 */
+    position: absolute;
+    width: 46px;
+    height: 55px;
+    left: 87.34%;
+    right: 10.26%;
+    top: 1.11%;
+    bottom: 93.8%;
+
+
+}
+.tr{
+    /* 行1 */
+
+
+}
+.esc{
+    /* 退出登录 */
+    position: absolute;
+    width: 83px;
+    height: 18px;
+    left: 1766px;
+    right: 71px;
+    top: 39px;
+    bottom: 1023px;
+
+
+    color: rgb(255, 255, 255);
+    font-family: Microsoft YaHei;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0px;
+    text-align: center;
+
+
+}
+.button{
+
+    /* Rectangle 127 Copy ?ease-in;lrgb;4 */
+    position: absolute;
+    width: 123px;
+    height: 38px;
+    left: 90.83%;
+    right: 2.76%;
+    top: 2.69%;
+    bottom: 93.8%;
+
+    background: linear-gradient(-45.00deg, rgba(73,143,242,1.00),rgba(73,101,242,1.00) 100%);
+
+    border-radius: 48px;
+    border: none;
+
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+
+    color: rgb(255, 255, 255);
+    font-family: Noto Sans SC   ;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+.headback{
+    /* 形状 */
+    position: absolute;
+    width: 46px;
+    height: 55px;
+    left: 87.34%;
+    right: 10.26%;
+    top: 1.11%;
+    bottom: 93.8%;
+
+
+    background: rgba(0, 0, 0, 0.65);
+}
+.idlocation{
+    /* 列1 */
+    position: absolute;
+    width: 110.58px;
+    height: 139.18px;
+    left: 0%;
+    right: 93.31%;
+
+    background: rgb(255, 255, 255);
+    box-shadow: inset 0px -1px 0px rgb(224, 230, 237);
+
+}
+.remarklocation{
+    /* 列1 */
+    position: absolute;
+    width: 236.96px;
+    height: 139.18px;
+    left: 6.78%;
+    right: 78.88%;
+
+    background: rgb(255, 255, 255);
+    box-shadow: inset 0px -1px 0px rgb(224, 230, 237);
+}
+.namelocation{
+    /* 列2 */
+    position: absolute;
+    width: 236.96px;
+    height: 139.18px;
+    left: 21.13%;
+    right: 64.53%;
+
+    background: rgb(255, 255, 255);
+    box-shadow: inset 0px -1px 0px rgb(224, 230, 237);
+}
+.typelocation{
+    /* Bg */
+    position: absolute;
+    width: 200px;
+    height: 139.18px;
+    left: 825px;
+
+    background: rgb(255, 255, 255);
+    box-shadow: inset 0px -1px 0px rgb(224, 230, 237);
+}
+.adoptstate{
+    /* Bg */
+    position: absolute;
+    width: 330px;
+    height: 139px;
+    left: 1037px;
+
+    background: rgb(255, 255, 255);
+    box-shadow: inset 0px -1px 0px rgb(224, 230, 237);
+}
+.operateloaction{
+    /* 列3 */
+    position: absolute;
+    width: 277.61px;
+    height: 139.18px;
+    left: 83.47%;
+    right: -0.28%;
+
+    background: rgb(255, 255, 255);
+    box-shadow: inset 0px -1px 0px rgb(224, 230, 237);
+}
+.sexlocation{
+    /* 列2 */
+    position: absolute;
+    width: 236.96px;
+    height: 139.18px;
+    left: 35.59%;
+    right: 50.06%;
+
+    background: rgb(255, 255, 255);
+    box-shadow: inset 0px -1px 0px rgb(224, 230, 237);
+}
+.smallsexlocation{
+    /* bg */
+    position: absolute;
+    width: 94.79px;
+    height: 72.61px;
+    left: 35.54px;
+    right: 106.66px;
+    top: 33.27px;
+    bottom: 33.27px;
+    box-sizing: border-box;
+
+
+}
+
+
+.sextxetstyle{
+    /* 男 */
+
+    font-family: Microsoft YaHei;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 0px;
+    text-align: center;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.admintextstyle{
+    /* 已被领养 */
+
+    color: rgb(71, 86, 105);
+    font-family: Noto Sans SC;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30;
+    letter-spacing: 0px;
+    text-align: center;
+
+
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.lastpage{
+    /* 50备份 2 */
+    /* 下一页 */
+    position: absolute;
+    width: 46px;
+    height: 20px;
+    left: 1424px;
+    right: -1331px;
+    top: 920px;
+    bottom: -911.23px;
+
+}
+.nextpage{
+    /* 下一页 */
+    position: absolute;
+    width: 46px;
+    height: 20px;
+    left: 1517px;
+    right: -1424px;
+    top: 920px;
+    bottom: -911.23px;
+
+}
+.delete{
+    /* 删除 */
+    position: absolute;
+    width: 35px;
+    height: 17px;
+    left: 118.48px;
+    right: 133.13px;
+    top: -70px;
+
+}
+.edit{
+    /* 编辑 */
+    position: absolute;
+    width: 35px;
+    height: 17px;
+    left: 35.54px;
+    right: 216.05px;
+    top: -70px;
+
+}
